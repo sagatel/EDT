@@ -32,5 +32,5 @@
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.Документ1</documents>
-  <reports>Report.Отчет</reports>
+  <reports>Report.Отчет1</reports>
 </mdclass:Configuration>
