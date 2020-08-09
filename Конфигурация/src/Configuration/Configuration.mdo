@@ -29,5 +29,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
