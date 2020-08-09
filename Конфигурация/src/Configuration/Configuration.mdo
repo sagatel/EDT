@@ -31,4 +31,5 @@
   </languages>
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
